@@ -1,2 +1,2 @@
-# practica1_fdp
+# repositorio copia
 Mi primer repositorio en github
